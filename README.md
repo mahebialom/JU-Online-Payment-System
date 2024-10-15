@@ -16,8 +16,9 @@ The **JU Online Payment System** is a web-based application designed to digitize
 - **Database**: A reliable MySQL database for storing user information, payment records, and transaction history.
 - **Payment Gateway**: Integration with third-party payment gateways for secure transactions.
 
-## TO run the application:
-- Neatbean,JDK Development Kit should be installed with setting up the path in environment variables .
-- Simply open the project with Netbean and run the project.
-
+## How to run the application:
+- Neatbean,JDK Development Kit(use Java SE Development Kit 20 for better match) should be installed with setting up the path in environment variables.
+- Simply open the project with Netbean and run.
+- Images and icons will not be apperared properly due to change in IDE version.
+  
 # All contributions are welcome!
